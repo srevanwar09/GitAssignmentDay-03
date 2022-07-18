@@ -1,0 +1,15 @@
+C:\Users\shri2\source\repos\GitAssignmentDay-3\GitAssignmentDay-03\GitAssignmentDay-3\GitAssignmentDay-3\obj\Debug\net6.0\GitAssignmentDay-3.csproj.AssemblyReference.cache
+C:\Users\shri2\source\repos\GitAssignmentDay-3\GitAssignmentDay-03\GitAssignmentDay-3\GitAssignmentDay-3\obj\Debug\net6.0\GitAssignmentDay-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shri2\source\repos\GitAssignmentDay-3\GitAssignmentDay-03\GitAssignmentDay-3\GitAssignmentDay-3\obj\Debug\net6.0\GitAssignmentDay-3.AssemblyInfoInputs.cache
+C:\Users\shri2\source\repos\GitAssignmentDay-3\GitAssignmentDay-03\GitAssignmentDay-3\GitAssignmentDay-3\obj\Debug\net6.0\GitAssignmentDay-3.AssemblyInfo.cs
+C:\Users\shri2\source\repos\GitAssignmentDay-3\GitAssignmentDay-03\GitAssignmentDay-3\GitAssignmentDay-3\obj\Debug\net6.0\GitAssignmentDay-3.csproj.CoreCompileInputs.cache
+C:\Users\shri2\source\repos\GitAssignmentDay-3\GitAssignmentDay-03\GitAssignmentDay-3\GitAssignmentDay-3\bin\Debug\net6.0\GitAssignmentDay-3.exe
+C:\Users\shri2\source\repos\GitAssignmentDay-3\GitAssignmentDay-03\GitAssignmentDay-3\GitAssignmentDay-3\bin\Debug\net6.0\GitAssignmentDay-3.deps.json
+C:\Users\shri2\source\repos\GitAssignmentDay-3\GitAssignmentDay-03\GitAssignmentDay-3\GitAssignmentDay-3\bin\Debug\net6.0\GitAssignmentDay-3.runtimeconfig.json
+C:\Users\shri2\source\repos\GitAssignmentDay-3\GitAssignmentDay-03\GitAssignmentDay-3\GitAssignmentDay-3\bin\Debug\net6.0\GitAssignmentDay-3.dll
+C:\Users\shri2\source\repos\GitAssignmentDay-3\GitAssignmentDay-03\GitAssignmentDay-3\GitAssignmentDay-3\bin\Debug\net6.0\GitAssignmentDay-3.pdb
+C:\Users\shri2\source\repos\GitAssignmentDay-3\GitAssignmentDay-03\GitAssignmentDay-3\GitAssignmentDay-3\obj\Debug\net6.0\GitAssignmentDay-3.dll
+C:\Users\shri2\source\repos\GitAssignmentDay-3\GitAssignmentDay-03\GitAssignmentDay-3\GitAssignmentDay-3\obj\Debug\net6.0\refint\GitAssignmentDay-3.dll
+C:\Users\shri2\source\repos\GitAssignmentDay-3\GitAssignmentDay-03\GitAssignmentDay-3\GitAssignmentDay-3\obj\Debug\net6.0\GitAssignmentDay-3.pdb
+C:\Users\shri2\source\repos\GitAssignmentDay-3\GitAssignmentDay-03\GitAssignmentDay-3\GitAssignmentDay-3\obj\Debug\net6.0\GitAssignmentDay-3.genruntimeconfig.cache
+C:\Users\shri2\source\repos\GitAssignmentDay-3\GitAssignmentDay-03\GitAssignmentDay-3\GitAssignmentDay-3\obj\Debug\net6.0\ref\GitAssignmentDay-3.dll
